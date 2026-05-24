@@ -7,6 +7,11 @@
 **手机上的 Codex — 本地智能助手 / PocketDesk AI** 是一款面向个人使用的 Android 端侧 AI Agent 应用。它以“本地优先、隐私可控、可记忆、可沉淀、可执行”为核心设计原则，把手机从普通聊天入口升级为一个随身 AI 操作台。
 
 它不是一个单纯调用大模型接口的聊天壳，而是一个面向真实手机工作流的本地化 Agent 系统：用户可以对话、生成笔记、检索本地文件、运行轻量 Python、小程序化执行任务，并把每天的大模型对话和思考沉淀为可迁移的 Markdown 文件。
+<img width="1799" height="1038" alt="image" src="https://github.com/user-attachments/assets/10ed9028-e0ae-407e-be9c-998559823ba6" />
+app界面
+<img width="1809" height="1109" alt="image" src="https://github.com/user-attachments/assets/fbc03fbc-f26e-4497-b578-85e3cddfa5e0" />
+本地调用千问大模型，可以一键将代码导入手机的Python实现多种功能
+<img width="1780" height="1103" alt="image" src="https://github.com/user-attachments/assets/3a88a7b2-2cac-4760-be47-507c861dd0c9" />
 
 当前版本已经实现或形成稳定雏形：
 
