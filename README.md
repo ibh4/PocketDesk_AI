@@ -473,7 +473,7 @@ App 内置多类日志：
 ## 6. 技术架构
 
 ### 6.1 总体架构
-
+```mermaid
 flowchart LR
     UI[UI层<br/>对话｜笔记｜小程序｜日志｜文件检索]
     VM[状态调度层<br/>ViewModel｜Router｜PromptBuilder]
@@ -491,7 +491,7 @@ flowchart LR
     style AGENT fill:#F5F3FF,stroke:#7C3AED,color:#2E1065,stroke-width:2px
     style ENGINE fill:#FEF3C7,stroke:#F59E0B,color:#78350F,stroke-width:2px
     style DATA fill:#ECFDF5,stroke:#059669,color:#064E3B,stroke-width:2px
-
+```
 ### 6.2 技术栈
 
 | 模块 | 技术 |
