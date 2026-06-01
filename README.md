@@ -3,7 +3,7 @@
 
 > 参赛标签：#2026AIAgent清客松  
 > 项目类型：端侧 + 云端混合 AI Agent APK  
-> 作者：彭伟超 / Dr.peng 幽默彭博士
+> 作者：Dr.peng 幽默彭博士
 
 
 # 手机上的 Codex — 本地智能助手 / PocketDesk AI
