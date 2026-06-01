@@ -4,10 +4,8 @@
 > 参赛标签：#2026AIAgent清客松  
 > 项目类型：端侧 + 云端混合 AI Agent APK  
 > 作者：彭伟超 / Dr.peng 幽默彭博士
-文件较大可以在百度网盘下载：
-通过网盘分享的文件：PocketDesk AI.apk
-链接: https://pan.baidu.com/s/1Oq25p5tj2ppSXgU79jJ1yA 提取码: wnst 
---来自百度网盘超级会员v9的分享
+
+
 # 手机上的 Codex — 本地智能助手 / PocketDesk AI
 
 > **隐私不出域的手机端侧 Agent 工作台**：把本地对话、Markdown 笔记、长期记忆、本地文件检索、Python 小工具和可控线上增强收拢到手机里，让手机不只是内容消费设备，而是一个可执行、可沉淀、可检索、可持续进化的个人 AI 工作台。
